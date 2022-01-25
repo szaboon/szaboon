@@ -8,7 +8,7 @@
 -->
 <h3>Things I code with</h3>
 <p>
-  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0f4791?style=plastic&logo=matlab&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0f4791?style=plastic&logo=matlab&logoColor=orange" />
 </p>
 
 <!--
