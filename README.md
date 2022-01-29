@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Michal, student at Brno University of Technology
+<p> I'm Michal, student at Brno University of Technology
 <!-- <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 -->
+
+<p> If you are interested in my profile and want to colaborate <a href = "mailto: szmiso1999@gmail.com">send me an email</a>
 <h3>Things I code with</h3>
 <p>
   <!--<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0f4791?style=plastic&logo=matlab&logoColor=orange" />-->
