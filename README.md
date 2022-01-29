@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<p> I'm Michal, student at Brno University of Technology
-<!-- <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
--->
-
+<p> I'm Michal from <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315810.png?token=exp=1643470895~hmac=821d98ab0f706324c1b3971091af13ac" width="13"/> <b>Slovakia</b>, currently studying at Brno University of Technology
 <p> If you are interested in my profile and want to colaborate <a href = "mailto: szmiso1999@gmail.com">send me an email</a>
 <h3>Things I code with</h3>
 <p>
