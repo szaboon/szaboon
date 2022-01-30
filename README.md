@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p> I'm Michal from <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315810.png?token=exp=1643470895~hmac=821d98ab0f706324c1b3971091af13ac" width="13"/> <b>Slovakia</b>, currently studying at Brno University of Technology
-<p> If you are interested in my profile and want to colaborate <a href = "mailto: szmiso1999@gmail.com">send me an email</a>
+<p> If you are interested in my profile and want to colaborate send me an email to <a href = "mailto: szmiso1999@gmail.com">szmiso1999@gmail.com</a>
 <h3>Things I code with</h3>
 <p>
   <!--<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0f4791?style=plastic&logo=matlab&logoColor=orange" />-->
